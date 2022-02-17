@@ -1,0 +1,12 @@
+{
+  "name": "aula-introdutoria",
+  "version": "1.0.0",
+  "description": "projeto para treinar e iniciar o node",
+  "main": "index.js",
+  "scripts": {
+    "principal": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabella",
+  "license": "ISC"
+}
